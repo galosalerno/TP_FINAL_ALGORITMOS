@@ -1,0 +1,6 @@
+HUR Terminal de hurlingham BuenosAires Argentina 20.000000 20 10 8
+IGZ Terminal de Iguazu Argentina 20 6 67 34
+COR Terminal de Cordoba Argentina 22 3 11 3
+RET Terminal de Retiro Argentina 35 4 12 46
+TUC Terminal de tucuman Argentina 200 8 9 3
+BRC Bariloche RioNegro Argentina 11.000000 12 13 14
